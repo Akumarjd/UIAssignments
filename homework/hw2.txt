@@ -1,0 +1,3 @@
+Input types: Type attributee specifies  the type of input element to display. The input tag is used to create interactive controls for webbased forms in order to accept data from the user and it is depend on the type of attribute.
+
+Semantic elements: A semantic element describes its meaning to both the browser and the developer. 

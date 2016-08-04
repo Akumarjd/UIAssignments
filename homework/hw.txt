@@ -1,0 +1,18 @@
+1.Fetch: fetchwhich will get all new and changed branches into the locally repository 
+
+2.Pull: From the second time if you want to get the updated code.
+
+3.Commit: moving the code into local repository.
+
+4.Push: Sending to remote repository.
+
+5.Merge conflicts: When to developers change code on same line of code and first person push the code there will be no problem and when second person try to push merge conflicts rasies
+Push and Commit: moving to local repository to remote repository and commit is moving the file to local repository.
+
+6.resolving the merge conflicts: 
+Pull the code you might have a merge conflicts then open the code of file with merge condlict then remove the comments and finally stage them and commit then push.
+
+7.Commit messgaes are important because in future we can check what are the changes has been made to the code.
+
+8.Suppose if you have updated code in the repo it will not allow you to push.
+9.help us not to loose the code we have
